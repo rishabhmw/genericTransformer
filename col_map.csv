@@ -1,0 +1,7 @@
+Output,Input
+Bank.Account,Beneficiary Account
+Order.Number,
+Trading.Currency,Currency
+Trading.Entity,
+Trader.Name,Name
+Currency.Rating,

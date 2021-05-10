@@ -1,0 +1,5 @@
+Deciding Column,Deciding Value,Affected Column,Affected Value
+Trading.Currency,USD,Currency.Rating,AAA+
+Trading.Currency,USD,Trading.Entity,CS_US
+Trading.Currency,EUR,Currency.Rating,AAA-
+Trading.Currency,EUR,Trading.Entity,CS_EMEA

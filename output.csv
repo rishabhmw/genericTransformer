@@ -1,0 +1,4 @@
+,Bank.Account,Order.Number,Trading.Currency,Trading.Entity,Trader.Name,Currency.Rating
+0,USDACC001,,USD,CS_US,Mark Twain,AAA+
+1,EURACC002,,EUR,CS_EMEA,Angela Merkel,AAA-
+2,LOSER0021,,USD,CS_US,Donald Trump,AAA+
